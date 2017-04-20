@@ -1,8 +1,7 @@
 # 测试环境
 
-- CDH 5.1.0
-- HBase 0.98
-- ElasticSearch 1.5.0
+- HBase 1.0.1.1
+- ElasticSearch 2.4.3
 
 # 使用Maven打包
 
